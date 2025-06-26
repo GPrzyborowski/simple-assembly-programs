@@ -87,7 +87,7 @@ RAX = 0000000000000007 (hex) = 7 (dec)
 
 Calculates the average of values along the outer frame of a square matrix.
 
-![screenshot](https://github.com/user-attachments/assets/100466d1-fccf-45d7-a4b4-93c121c647ae)
+![screenshot2](https://github.com/user-attachments/assets/945b9a53-113e-4959-bd7e-021c0e36c904)
 
 
 Frame elements:
