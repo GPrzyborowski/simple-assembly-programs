@@ -67,11 +67,10 @@ Given a matrix in memory, this program calculates the average of each column and
 
 Matrix:
 
-1 2
-
-3 4
-
-5 6
+| 1 | 2 |
+|---|---|
+| 3 | 4 |
+| 5 | 6 |
 
 Columns:
 
@@ -111,6 +110,11 @@ Scans an array terminated with `0` and finds the maximum element.
 
 ![screenshot](https://github.com/user-attachments/assets/4fc6a01b-55e1-4385-9237-e170c1b73abb)
 
+Array elements: 
+
+5, 2, 7, 1, 8, 0
+
+Max = 8
 
 ## Sphere Volume
 
